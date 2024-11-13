@@ -1,4 +1,4 @@
-
+```javascript
 import {useState,useRef,useEffect} from "react";
 export default function App() { 
     const[val,setVal]=useState({
@@ -110,6 +110,7 @@ export default function App() {
       
   )
 }
+```
 ------------------------------------------------------------------------------------
 body {
   font-family: sans-serif;
